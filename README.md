@@ -30,3 +30,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Competetive Progrmming Plateform:</h3>
+<p>
+<a href="https://codeforces.com/profile/Bouttouwa" target="_blank">
+    <img src="https://iconscout.com/icons/code-forces" alt="Codeforces" width="20" height="20">
+</a>
+</p>
+
