@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Competetive Progrmming Plateform:</h3>
+<!-- <h3 align="left">Competetive Progrmming Plateform:</h3> -->
 <!-- <p>
 <a href="https://codeforces.com/profile/Bouttouwa" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40">
