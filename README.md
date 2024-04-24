@@ -31,7 +31,7 @@
   </a>
 </p>
 <h3 align="left">Competetive Progrmming Plateform:</h3>
-<p>
+<!-- <p>
 <a href="https://codeforces.com/profile/Bouttouwa" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40">
         <path fill="#F44336" d="M24 19.5V12a1.5 1.5 0 0 0-1.5-1.5h-3A1.5 1.5 0 0 0 18 12v7.5a1.5 1.5 0 0 0 1.5 1.5h3a1.5 1.5 0 0 0 1.5-1.5z"></path>
@@ -42,4 +42,4 @@
 
 
 </p>
-
+ -->
