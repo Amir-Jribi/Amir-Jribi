@@ -33,7 +33,7 @@
 <h3 align="left">Competetive Progrmming Plateform:</h3>
 <p>
 <a href="https://codeforces.com/profile/Bouttouwa" target="_blank">
-    <a href="https://iconscout.com/icons/code-forces" class="text-underline font-size-sm" target="_blank">Code Forces</a> by <a     href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>  
+    <a href="https://iconscout.com/icons/code-forces" class="text-underline font-size-sm" target="_blank">Code Forces</a>
 </a>
 </p>
 
