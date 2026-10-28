@@ -1,32 +1,29 @@
-```html
 <h1 align="center">Hi 👋, I'm Amir Jribi</h1>
 
-<h3 align="center">HPC Engineer at ReDX Technologies</h3>
+<h3 align="center">HPC Engineer</h3>
 
 <p align="center">
   Curious problem solver working in High-Performance Computing (HPC),
-  with a focus on software deployment, performance benchmarking, and Linux environments.
+  with experience in software deployment, performance benchmarking, and Linux environments.
 </p>
 
 - 🔭 Currently working on **HPC software environments, benchmarking, and performance analysis**.
-- 🛠️ Working with **EasyBuild** to build and maintain software installations on HPC systems.
+- 🛠️ Using **EasyBuild** to build and maintain software installations on HPC systems.
 - ⚡ Exploring CPU and GPU performance, MPI communication, and HPC benchmarks.
 - 🐧 Interested in Linux systems, automation, and reproducible software deployments.
-- 💻 Programming mainly in Python and C++, with an interest in learning how things work under the hood.
-- 🤝 Enjoy helping users with software installation and execution on HPC systems.
-- 🌱 Always curious about new technologies and looking to improve my understanding of HPC systems.
+- 💻 Always improving my C++ programming skills.
+- 🌱 Curious about new technologies and continuously improving my understanding of HPC systems.
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amir-jribi/" target="_blank" rel="noreferrer">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools & Technologies:</h3>
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -41,38 +38,44 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
          alt="C++" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">HPC Tools and Technologies:</h3>
-
-<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+         alt="Bash" width="40" height="40"/>
+  </a>
   <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.open-mpi.org/images/open-mpi-logo.png"
          alt="Open MPI" height="40"/>
   </a>
-  <a href="https://www.schedmd.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="Slurm on Linux" width="40" height="40"/>
+  <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Slurm-235A97?style=flat&logo=linux&logoColor=white"
+         alt="Slurm" height="28"/>
   </a>
   <a href="https://www.easybuild.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.easybuild.io/assets/img/easybuild_logo.png"
-         alt="EasyBuild" height="40"/>
+    <img src="https://img.shields.io/badge/EasyBuild-2E8B57?style=flat"
+         alt="EasyBuild" height="28"/>
   </a>
-  <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg"
-         alt="NVIDIA" width="40" height="40"/>
+  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"
+         alt="CUDA" height="28"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+         alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"
+         alt="CMake" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+         alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         alt="Git" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">Performance Benchmarking:</h3>
-
-<p>
-  Working with HPC benchmarks such as HPL, STREAM, IOR, and OSU Micro-Benchmarks
-  to evaluate computational performance, memory bandwidth, storage performance,
-  and MPI communication.
-</p>
-
-<h3 align="left">A Little More About Me:</h3>
 
 <p>
   I enjoy investigating technical problems, experimenting with different
@@ -80,4 +83,3 @@
   My interests lie at the intersection of software and systems, particularly
   in the world of HPC.
 </p>
-```
